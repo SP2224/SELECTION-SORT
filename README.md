@@ -22,9 +22,9 @@ Also, we can analyze the complexity by simply observing the number of loops. The
 
 ## Time Complexities:
 
-Worst Case Complexity: O(n2)
+# Worst Case Complexity: O(n2)
 If we want to sort in ascending order and the array is in descending order then, the worst case occurs.
-Best Case Complexity: O(n2)
+# Best Case Complexity: O(n2)
 It occurs when the array is already sorted
-Average Case Complexity: O(n2)
+# Average Case Complexity: O(n2)
 It occurs when the elements of the array are in jumbled order (neither ascending nor descending).
