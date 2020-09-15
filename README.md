@@ -14,7 +14,7 @@ Compare minimum with the third element. Again, if the third element is smaller, 
 
 3.After each iteration, minimum is placed in the front of the unsorted list
 
-4.For each iteration, indexing starts from the first unsorted element. Step 1 to 3 are repeated until all the elements are placed at their correct positions.
+4.For each iteration, indexing starts from the first unsorted element. They are repeated until all the elements are placed at their correct positions.
 
 # COMPLEXITY: O(n2)
 
