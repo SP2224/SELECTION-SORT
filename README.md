@@ -38,15 +38,15 @@ The time complexity of the selection sort is the same in all cases. At every ste
 Space complexity is O(1) because an extra variable temp is used.
 
 # Selection Sort Applications
-The selection sort is used when:
+1.The selection sort is used when:
 #
-small list is to be sorted
+2.small list is to be sorted
 #
-cost of swapping does not matter
+3.cost of swapping does not matter
 #
-checking of all the elements is compulsory
+4.checking of all the elements is compulsory
 #
-cost of writing to a memory matters like in flash memory (number of writes/swaps is O(n) as compared to O(n2) of bubble sort)
+5.cost of writing to a memory matters like in flash memory (number of writes/swaps is O(n) as compared to O(n2) of bubble sort)
 
 # LINK FOR REFERENCE
 1.mycodeschool:-
